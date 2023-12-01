@@ -1,12 +1,8 @@
 ﻿## 📁 | PORTFÓLIO | Everton Fernandes Abrantes <br><br>
 
-### 🚀 | link do projeto: https://matheus-srosa.github.io/Portfolio/
-
+### 🚀 | link do projeto:  https://evertonabrantes.github.io/MeuPortf-lio/
 ### 📚 | Descrição
-
-### Explorando o futuro através de código e design. Bem-vindo ao meu mundo de possibilidades, onde o HTML, CSS e JavaScript se unem para criar visões futuristas. 
-
-<img src="assets/img/Capa_Portfolio.png" alt="Foto do meu projeto"> 
+ 
 
 ##
 
